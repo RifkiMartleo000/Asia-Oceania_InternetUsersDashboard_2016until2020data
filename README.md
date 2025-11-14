@@ -1,6 +1,6 @@
-## 📊 Dashboard: Asia's Internet Users Analysis (2016–2020)
+## 📊 Dashboard: Asia-Oceania's Internet Users Analysis (2016–2020)
 
-Interactive visualization of **internet users across Asia** from **2016 to 2020**, built using **Tableau Public**.
+Interactive visualization of **internet users across Asia & Oceania** from **2016 to 2020**, built using **Tableau**.
 
 ### Key Features:
 - **Donut Chart**: User distribution by subregion (East Asia, South Asia, etc.)
