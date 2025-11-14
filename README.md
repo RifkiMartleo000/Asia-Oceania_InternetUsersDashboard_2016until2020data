@@ -1,15 +1,15 @@
 ## 📊 Dashboard: Asia's Internet Users Analysis (2016–2020)
 
-Visualisasi interaktif pengguna internet di **Asia** berdasarkan data tahun **2016–2020**, dibuat dengan **Tableau Public**.
+Interactive visualization of **internet users across Asia** from **2016 to 2020**, built using **Tableau Public**.
 
-### Fitur Utama:
-- **Donut Chart**: Distribusi pengguna per wilayah Asia (East, South, Central, dll.)
-- **Peta Interaktif**: Jumlah pengguna internet per negara (highlight: China & India)
-- **Line Chart**: Tren pertumbuhan pengguna dari 2016 ke 2020
-- **Box Plot**: Variasi jumlah pengguna antar negara
-- **KPIs**: Rata-rata, maksimum, minimum pengguna, serta top negara
-- **Filter Interaktif**: Tahun, wilayah, dan top N negara
+### Key Features:
+- **Donut Chart**: User distribution by subregion (East Asia, South Asia, etc.)
+- **Interactive Map**: Internet users by country (China & India leading)
+- **Line Chart**: Growth trend of total users over 5 years
+- **Box Plot**: Variability in user counts across countries
+- **KPIs**: Average, max, min users, and top countries
+- **Interactive Filters**: Year, region, and top N countries
 
-> **Insight Utama**: Pengguna internet Asia tumbuh **~60%** dalam 5 tahun, didominasi **China (4.2M)** dan **India (1.7M)**.
+> **Key Insight**: Internet users in Asia grew **~60%** in 5 years, dominated by **China (4.26M)** and **India (1.75M)**.
 
-[🔗 Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/...)
+[🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/8WXMCZSDX?:display_count=n&:origin=viz_share_link)
